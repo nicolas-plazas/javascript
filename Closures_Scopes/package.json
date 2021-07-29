@@ -1,0 +1,15 @@
+{
+  "name": "closures_scopes",
+  "version": "1.0.0",
+  "description": "Aprendiendo closures y scopes en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js"
+  ],
+  "author": "Nicolás Plazas",
+  "license": "MIT"
+}
